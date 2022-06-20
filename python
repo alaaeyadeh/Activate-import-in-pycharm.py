@@ -1,0 +1,3 @@
+# Activate-import-in-pycharm.py
+import uuid 
+id : uuid
